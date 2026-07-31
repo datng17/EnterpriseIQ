@@ -140,7 +140,3 @@ CREATE EXTENSION IF NOT EXISTS pgrouting;
 3. **Explore the knowledge graph** — Visualize entity relationships in the graph explorer
 4. **Get auditable answers** — Every response traces back to source documents and graph paths
 
-## Project Status
-
-This project was built for the **H0: Hack the Zero Stack** hackathon (June 2026). The architecture and research are documented in the `docs/` directory.
-
